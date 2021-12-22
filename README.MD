@@ -16,6 +16,7 @@
 5. 建议将`v2rayInit.bat`发送到桌面快捷方式或者开机启动目录以便于每次双击启动配置
 
 
+## Moreover
 
 - 打包exe命令：pyinstaller --noconsole -F v2raySwitchL.py
 - 不想exe运行或者测试时，可以将`v2raySwitchL.py`放在`v2rayN.exe`所在目录后，直接命令行运行python文件:
