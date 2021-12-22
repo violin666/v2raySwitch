@@ -1,6 +1,6 @@
 # V2raySwitch 
 
-> 主要功能为快速切换v2ray状态快捷键。
+> 主要功能为快速切换v2ray状态快捷键。若无v2rayN先下载：[v2RayN](https://github.com/2dust/v2rayN)
 >
 > 默认F4为`自动配置系统代理`模式，F3为`清除系统代理`模式。
 >
